@@ -25,7 +25,7 @@ SECRET_KEY = 'sb5(ihitc+#h80_if+))xsi&y_*&h7gpnb!ljt)ypu_o+mq31q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<keitomin>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'keitomin.pythonanywhere.com']
 
 
 # Application definition
